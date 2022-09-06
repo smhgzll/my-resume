@@ -1,3 +1,9 @@
-theme: jekyll-theme-minimal
-title: 💻
-description: Semih Güzelel's CV
+theme: jekyll-theme-hacker
+title: Semih Güzelel
+author:
+  name: Semih Güzelel
+  email: semihguzelel@gmail.com
+description: Semih Güzelel, Software Developer
+github_username: smhgzll
+linkedin_username: semihguzelel
+year: 2022
